@@ -51,9 +51,3 @@ The dataset should include:
 - **Classification Report:** Precision, recall, F1-score for each class.
 - **ROC AUC Score:** Overall metric for model discrimination ability.
 - **Feature Importance:** Shows influence of each feature on predictions.
-
-## Author
-[Your Name]
-
-## License
-Specify your license here (e.g., MIT License).
